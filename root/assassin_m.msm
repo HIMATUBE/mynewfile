@@ -1,4 +1,4 @@
-ScriptType            RaceDataScript
+ScriptType            RaceDataScript #test
 
 BaseModelFileName     "d:/ymir work/pc2/assassin/assassin_novice.GR2"
 
